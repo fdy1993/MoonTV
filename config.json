@@ -84,6 +84,46 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+    "maoyan": {
+      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "name": "猫眼资源站",
+      "detail": "https://www.maoyanzy.com/"
+    },
+    "sex8zy": {
+      "api": "https://xingba222.com/api.php/provide/vod",
+      "name": "杏吧资源",
+      "detail": "www.sex8zy.com"
+    },
+    "hsckzy": {
+      "api": "https://hsckzy888.com/api.php/provide/vod",
+      "name": "黄色仓库",
+      "detail": "https://hsckzy222.com/"
+    },
+    "souavzy": {
+      "api": "https://api.souavzy.vip/api.php/provide/vod",
+      "name": "搜AV",
+      "detail": "https://souavzy.com/"
+    },
+    "CKZY": {
+      "api": "https://ckzy.me/api.php/provide/vod",
+      "name": "CKZY",
+      "detail": "https://www.ckzy1.com/"
+    },
+    "yutu": {
+      "api": "https://apiyutu.com/api.php/provide/vod",
+      "name": "玉兔资源",
+      "detail": "https://yutuzy.com/"
+    },
+    "yutu": {
+      "api": "https://apiyutu.com/api.php/provide/vod",
+      "name": "玉兔资源",
+      "detail": "https://yutuzy.com/"
+    },
+    "huohuziyu": {
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "name": "豪华资源",
+      "detail": "www.haohuazy.com"
     }
   }
 }
